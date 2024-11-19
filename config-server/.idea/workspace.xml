@@ -4,14 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ed80239-9594-429b-b4cd-0ea491c6c1ac" name="Changes" comment="" />
+    <list default="true" id="1ed80239-9594-429b-b4cd-0ea491c6c1ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../booking/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../booking/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../booking/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../booking/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products-microservice/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../products-microservice/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products-microservice/src/main/java/com/productos/products_microservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../products-microservice/src/main/java/com/productos/products_microservice/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../products-microservice/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../products-microservice/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="80206a92-3cfa-47c5-b2a8-ee43786da6f3" />
@@ -23,9 +29,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2ozhuVh9BiyCssFII4z0UB73lai" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,9 +42,9 @@
   "keyToString": {
     "Application.ConfigServerApplication.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "development",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/arque/OneDrive/Documents/proyecto microservice/config-server",
+    "last_opened_file_path": "C:/Users/arque/OneDrive/Documents/proyecto microservice/products-microservice",
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
